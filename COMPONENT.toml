@@ -3,7 +3,7 @@ name = "SigmaOS-bluez-tools"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "bluez-tools component"
+description = "SigmaOS SigmaOS-bluez-tools component"
 upstream = []
 
 [contract]
